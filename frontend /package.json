@@ -1,0 +1,28 @@
+{
+  "name": "ai-contact-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered contact bot for portfolio website",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "axios": "^1.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "AI",
+    "contact-bot",
+    "portfolio",
+    "react"
+  ],
+  "author": "Amit Kumar",
+  "license": "MIT"
+}
